@@ -1,7 +1,7 @@
 # 구현이 불가능한 기능은 없다
 [![Realrlgus's GitHub stats](https://github-readme-stats.vercel.app/api?username=realrlgus)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realrlgus)](https://github.com/anuraghazra/github-readme-stats)ㄱ
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realrlgus)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  기술스택
 
